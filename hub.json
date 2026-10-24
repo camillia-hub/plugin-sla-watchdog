@@ -1,1 +1,1 @@
-{"name": "SLA Watchdog", "slug": "plugin-sla-watchdog", "kind": "plugin", "description": "Escalates open task questions with a comment so the team answers quickly.", "version": "1.0.0", "priceMinor": 0, "currency": "USD", "include": ["plugin.json", "index.js", "package.json"]}
+{"id": "sla-watchdog", "name": "SLA Watchdog", "slug": "plugin-sla-watchdog", "kind": "plugin", "description": "Escalates open task questions with a comment so the team answers quickly.", "version": "1.0.0", "priceMinor": 0, "currency": "USD", "include": ["plugin.json", "index.js", "package.json"]}
